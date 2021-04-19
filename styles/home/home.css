@@ -1,0 +1,20 @@
+
+#home-link {
+    color:powderblue;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+th, td {
+    padding: 5;
+    margin 5;
+} 

@@ -1,0 +1,23 @@
+#contact-link {
+    color:powderblue;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+
+}
+
+form {
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 20px;
+    background-color: powderblue;
+    width: 300px;
+
+}
+
+label {
+    padding-bottom: 10px;
+}
+

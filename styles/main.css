@@ -1,0 +1,17 @@
+main {
+    display: flex;
+
+}
+aside {
+    width: 100px;
+    background-color: rgba(243, 147, 112, 0.973);
+}
+
+#principal {
+    flex: 1;
+    background-color: rgb(252, 239, 121);
+}
+
+h3, h2, h1 {
+    font-family:  'Lobster', cursive !important;
+}

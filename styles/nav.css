@@ -1,0 +1,24 @@
+nav, ul.navegation {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav, ul.navegation, li.navegation, a.navegation {
+    list-style: none;
+    
+}
+
+ul.navegation, li.navegation, a.navegation {
+    color: ivory;
+    text-decoration: none;
+    flex-grow: 1;
+     
+}
+
+li.navegation, a.navegation {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: x-large;
+}
+
+
